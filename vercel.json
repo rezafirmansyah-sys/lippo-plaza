@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "lippo-plaza-company-profile",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
